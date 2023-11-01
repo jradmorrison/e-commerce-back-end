@@ -11,9 +11,10 @@ router.get('/', async (req, res) => {
       res.status(404).json('No tags found');
       return;
     }
-    res.status(200).json(products);
-  } catch (error) {
+    res.status(200).json(tags);
+  } catch (err) {
     res.status(500).json(err);
+    console.log(err);
   }
 });
 
