@@ -30,7 +30,7 @@ router.get('/:id', async (req, res) => {
     res.status(500).json(err);
   }
 });
-
+// todo: create, update, delete
 router.post('/', (req, res) => {
   // create a new category
 });

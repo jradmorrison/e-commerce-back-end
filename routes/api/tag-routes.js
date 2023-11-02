@@ -31,6 +31,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
+// todo: create, update, and delete routes
 router.post('/', (req, res) => {
   // create a new tag
 });
