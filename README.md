@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jradmorrison/e-commerce-back-end">
-    <img src="./Assets/logo.png" alt="Logo" width="300" height="300">
+    <img src="./Assets/logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h1 align="center">E-Commerce Back End</h1>
